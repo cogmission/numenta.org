@@ -1,0 +1,6 @@
+{% comment %}
+  ghbtns - Github Buttons widget by @mdo https://ghbtns.com/
+  @param {String} type - Button type to include [ 'star', 'fork', 'watch' ]
+{% endcomment %}
+
+<iframe src="{{ site.data.url.ext.ghbtns }}?user={{ site.data.github.user }}&amp;repo={{ site.data.github.repo }}&amp;type={{ include.type }}&amp;count=true&amp;size=large{% if include.type == 'watch' %}&amp;v=2{% endif %}" style="border:0" width="160" height="30"></iframe>

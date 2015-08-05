@@ -1,25 +1,37 @@
-# Travis CI Build config
+### Travis CI Build
+
+
+# config
 
 branches:
   only:
     - gh-pages
-
-language: ruby
-rvm:
-    - 2.2.1
 
 env:
   global:
     - LANG=en_US.UTF-8
     - LC_ALL=en_US.UTF-8
 
+language: ruby
+
 notifications:
   irc:
     channels:
       - "irc.freenode.net#nupic-hackers"
 
-before_install:
+rvm:
+  - 2.2.1
+
+sudo: false
+
+
+# script
+
+before_script:
   - gem install bundler
   - bundle install
+  - npm install
 
-script: bundle exec jekyll build
+script:
+  - npm run build
+  - npm run test

@@ -1,26 +1,47 @@
 ---
-layout: blogpost
-title: First NuPIC Hackathon
+author: Matthew Taylor
 category: blog
+image: /assets/img/blog/2013-06-10/image.png
+layout: item
+org: Open Source Manager
 redirect_from: "/news/2013/06/10/hackathon-june-2013.html"
+title: First NuPIC Hackathon
 ---
 
-We're having a NuPIC Hackathon on June 21, and we have about five spaces available for more participants. *First come, first served!* It will be in the San Francisco Bay Area. If you are interested in attending, please contact me directly at <matt@numenta.org>.
+We're having a NuPIC Hackathon on June 21, and we have about five spaces
+available for more participants. *First come, first served!* It will be in the
+San Francisco Bay Area. If you are interested in attending, please contact me
+directly at <matt@numenta.org>.
 
-Like Jeff [said earlier]({{ site.baseurl }}/news/2013/06/03/introducing-nupic.html), this stuff is not easy. The Cortical Learning Algorithm is based on novel concepts that present a steep learning curve. I'd recommend you have at least one of the following qualities before you contact me to attend. If you have both, then you're our target market for this Hackathon, and you should seriously think about coming!
+![{{ page.title }} Image]({{ site.baseurl }}{{ page.image }})
 
-- familiarity with the [CLA white paper]({{ site.baseurl }}/resources/HTM_CorticalLearningAlgorithms.pdf)
-- programming skills with C++ or python
+Like Jeff
+[said earlier]({{ site.baseurl }}/news/2013/06/03/introducing-nupic.html), this
+stuff is not easy. The Cortical Learning Algorithm is based on novel concepts
+that present a steep learning curve. I'd recommend you have at least one of the
+following qualities before you contact me to attend. If you have both, then
+you're our target market for this Hackathon, and you should seriously think
+about coming!
 
-The event will kick off with a short message from Jeff Hawkins, founder of Numenta and author of **On Intelligence**. Afterwards, there will be a technical introduction to the [NuPIC codebase](http://github.com/numenta/nupic), along with an example application and some guidance for participants.
+- <i></i> Familiarity with the [CLA white paper]({{ site.baseurl }}/resources/HTM_CorticalLearningAlgorithms.pdf)
+- <i></i> Programming skills with C++ or python
 
-During the event, CLA experts will be available to help hackers work with the NuPIC library.
+The event will kick off with a short message from Jeff Hawkins, founder of
+Numenta and author of **On Intelligence**. Afterwards, there will be a technical
+introduction to the [NuPIC codebase](http://github.com/numenta/nupic), along
+with an example application and some guidance for participants.
 
-At 5PM on Saturday June 22, participants will have the chance to showcase their work before the group. The best entries will receive prizes!
+During the event, CLA experts will be available to help hackers work with the
+NuPIC library.
 
-There will be pizza and beer available Friday night, coffee Saturday morning, and sandwiches Saturday for lunch.
+At 5PM on Saturday June 22, participants will have the chance to showcase their
+work before the group. The best entries will receive prizes!
 
-*Technical requirements:* linux (but we'll have VMs available if you only have a Windows laptop), python 2.6, gcc.
+There will be pizza and beer available Friday night, coffee Saturday morning,
+and sandwiches Saturday for lunch.
+
+*Technical requirements:* linux (but we'll have VMs available if you only have a
+Windows laptop), python 2.6, gcc.
 
 > Matt Taylor <br/>
 > Open Source Community Flag-Bearer <br/>

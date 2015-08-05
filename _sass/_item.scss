@@ -1,0 +1,53 @@
+/**
+ * Post item & Post item List Pages (Blog, Media, News, Events, etc.)
+ */
+main > section {
+  article {
+    &.post {
+      @media (min-width: $screen-md) {
+        border-right: 1px solid $color-lite;
+        padding-right: 5rem;
+      }
+    }
+
+    > img {
+      margin-bottom: 2rem;
+      margin-top: 1rem;
+    }
+
+    // author line
+    > .meta {
+      color: $color-gray;
+      font-size: 90%;
+      margin-bottom: 0.75rem;
+    }
+
+    // markdown translations
+
+    pre { // code snippet bocks: nowrap
+      overflow: auto;
+      word-wrap: normal;
+      white-space: pre;
+    }
+
+    > p {
+      img { // item article images
+        @include img-responsive;
+        margin: 3rem auto;
+      }
+    }
+  }
+
+  .recent {
+    margin-top: 10rem;
+
+    ul {
+      margin-top: 2rem;
+      font-size: 90%;
+
+      > li {
+        margin-bottom: 1rem;
+      }
+    }
+  }
+}

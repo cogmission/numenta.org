@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['nta',['nta',['../namespacenta.html',1,'']]]
+  ['nupic',['nupic',['../namespacenupic.html',1,'']]]
 ];

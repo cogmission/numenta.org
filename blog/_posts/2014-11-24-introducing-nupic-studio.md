@@ -1,27 +1,43 @@
 ---
-layout: blogpost
-title: Introducing NuPIC Studio
+author: David Ragazzi
 category: blog
+image: /assets/img/blog/2014-11-24/image.png
+layout: item
+org: Community Contributor
+title: Introducing NuPIC Studio
 ---
 
-Hello NuPICers!
+Hello NuPICers! I am introducing a nice tool for the NuPIC community.
+[NuPIC Studio](https://github.com/nupic-community/nupic.studio) is a powerful
+all-in-one tool that allows users create an HTM network from scratch, train it,
+collect statistics, and share it among the members of the community.
 
-I am introducing a nice tool for the NuPIC community. [NuPIC Studio](https://github.com/nupic-community/nupic.studio) is a powerful all-in-one tool that allows users create an HTM network from scratch, train it, collect statistics, and share it among the members of the community. 
+![{{ page.title }} Image]({{ site.baseurl }}{{ page.image }})
 
-![NuStudio Screenshot]({{ site.baseurl }}/images/blog/nustudio-screenshot.png)
+It is not just a visualization tool but an HTM builder, debugger and laboratory
+for experiments. It is ideal for newbies with little intimacy with
+[NuPIC](https://github.com/numenta/nupic) code as well as experts that wish for
+better productivity. Among its features and advantages are:
 
-It is not just a visualization tool but an HTM builder, debugger and laboratory for experiments. It is ideal for newbies with little intimacy with [NuPIC](https://github.com/numenta/nupic) code as well as experts that wish for better productivity. Among its features and advantages are:
+* <i></i> Users can open, save, or change their "HTM projects" or of other
+  developers. A typical project contains data to be trained, neural network
+  configuration, statistics, etc, which can be shared to be analyzed or
+  integrated with other projects.
+* <i></i> The HTM engine is the own original NuPIC library (Python
+  distribution). This means no port, no bindings, no re-implementation, etc. So
+  any changes in the original NuPIC source can be immediately viewed. This helps
+  users that wish to test improvements like new encoders or even hierarchy,
+  attention, and motor integration.
 
-- Users can open, save, or change their "HTM projects" or of other developers. A typical project contains data to be trained, neural network configuration, statistics, etc, which can be shared to be analyzed or integrated with other projects.
-- The HTM engine is the own original NuPIC library (Python distribution). This means no port, no bindings, no re-implementation, etc. So any changes in the original NuPIC source can be immediately viewed. This helps users that wish to test improvements like new encoders or even hierarchy, attention, and motor integration.
+![{{ page.title }} Image 2]({{ site.baseurl }}/assets/img/blog/2014-11-24/image2.png)
 
-![NuStudio Screenshot]({{ site.baseurl }}/images/blog/nustudio-encodings.png)
+* <i></i> Source code of the HTM network architecture is automatically generated
+  in order for users to simply copy and paste it into their applications and so
+  consume NuPIC Network API.
 
-- Source code of the HTM network architecture is automatically generated in order for users to simply copy and paste it into their applications and so consume NuPIC Network API.
+![{{ page.title }} Image 3]({{ site.baseurl }}/assets/img/blog/2014-11-24/image3.png)
 
-![NuStudio Screenshot]({{ site.baseurl }}/images/blog/nustudio-architecture_code.png)
-
-- The project is pip-installable and for desktop use.
+* <i></i> The project is pip-installable and for desktop use.
 
 The project's site is: <https://github.com/nupic-community/nupic.studio>
 

@@ -1,0 +1,24 @@
+-
+  name: Continuous Online Learning
+  desc: NuPIC models continuously adjust in real-time to the rapidly changing flow of your data.
+  icon: fa-refresh
+-
+  name: Temporal and Spatial Patterns
+  desc: Just like the human brain, NuPIC can model both patterns in space, and changing sequences across time.
+  icon: fa-clock-o
+-
+  name: Real-time Streaming Data
+  desc: Intelligence exists actively in the present moment, not lost in deep storage somewhere in the future.
+  icon: fa-forward
+-
+  name: Prediction and Modeling
+  desc: Learn, model, and predict multi-step time-series values, using general neocortical algorithms.
+  icon: fa-line-chart
+-
+  name: Breakthrough Anomaly Detection
+  desc: Find disturbances in patterned streams of data, without clumsy thresholds or unintelligent algorithms.
+  icon: fa-heartbeat
+-
+  name: Hierarchical Temporal Memory
+  desc: A new computational architecture, ready for machines and applications that learn.
+  icon: fa-sitemap

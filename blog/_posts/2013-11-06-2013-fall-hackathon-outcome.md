@@ -1,69 +1,86 @@
 ---
-layout: blogpost
-title: 2013 Fall Hackathon Outcome
+author: Matthew Taylor
 category: blog
+image: /assets/img/blog/2013-11-06/image.png
+layout: item
+org: Open Source Manager
+title: 2013 Fall Hackathon Outcome
 ---
 
-<div class="image">
-    <a href="http://www.flickr.com/photos/107852893@N04/10709312963/" title="NuPIC 2013 Fall Hackathon by numenta, on Flickr"><img src="http://farm6.staticflickr.com/5548/10709312963_a32cf4a7fb_z.jpg" width="640" height="150" alt="NuPIC 2013 Fall Hackathon"></a>
-    <p>A panoramic view of the hackathon space at Tagged.</p>
-</div>
+Last weekend's hackathon was a lot of fun. Thanks to everyone for coming out. We
+gave several educational presentations and held some working sessions. The
+participation from the attendees was outstanding.
 
-Last weekend's hackathon was a lot of fun. Thanks to everyone for coming out. We gave several educational presentations and held some working sessions. The participation from the attendees was outstanding. 
+[![NuPIC 2013 Fall Hackathon](http://farm6.staticflickr.com/5548/10709312963_a32cf4a7fb_z.jpg)](http://www.flickr.com/photos/107852893@N04/10709312963/)
 
-Thanks again to <a href="http://about.tagged.com">Tagged</a>, who generously donated some of their workspace to us for the event. The Tagged offices are very cool, and in a great part of San Francisco.
+> A panoramic view of the hackathon space at Tagged.
 
-<div class="image">
-    <a href="http://www.flickr.com/photos/107852893@N04/10981929444/" title="NuPIC 2013 Fall Hackathon by numenta, on Flickr"><img src="http://farm4.staticflickr.com/3808/10981929444_a357663da7_z.jpg" width="640" height="425" alt="NuPIC 2013 Fall Hackathon"></a>
-    <p>Jeff Hawkins talking about sensor-motor integration in the neocortex.</p>
-</div>
+Thanks again to [Tagged](http://about.tagged.com), who generously donated some
+of their workspace to us for the event. The Tagged offices are very cool, and
+in a great part of San Francisco.
 
-We had over 50 people attend the hackathon from across the United States and Europe, most of whom stuck around for the demos after the 30-hour hack period. In all, we had <a href="#demos">7 impressive demos</a>! Only a couple were <em>natural language processing</em> hacks, but that's okay. It was great to see NuPIC users making their ideas a reality in whichever direction they chose to apply it.
+[![NuPIC 2013 Fall Hackathon](http://farm4.staticflickr.com/3808/10981929444_a357663da7_z.jpg)](http://www.flickr.com/photos/107852893@N04/10981929444/)
 
-<div class="image">
-    <a href="http://www.flickr.com/photos/107852893@N04/10709055775/" title="NuPIC 2013 Fall Hackathon by numenta, on Flickr"><img src="http://farm8.staticflickr.com/7325/10709055775_72897d1031_z.jpg" width="640" height="480" alt="NuPIC 2013 Fall Hackathon"></a>
-    <p>Hackathon attendees watching Subutai Ahmad's <a href="http://www.youtube.com/watch?v=QBs-2_wl_JM" rel="prettyPhoto" title="CLA Deep Dive">CLA Deep Dive</a> presentation.</p>
-</div>
+> Jeff Hawkins talking about sensor-motor integration in the neocortex.
 
-Here's what some attendees had to say on our <a href="http://www.meetup.com/numenta/events/136809782/">Meetup page</a> and <a href="http://lists.numenta.org/mailman/listinfo/nupic_lists.numenta.org">mailing list</a> about the hackathon:
+We had over 50 people attend the hackathon from across the United States and
+Europe, most of whom stuck around for the demos after the 30-hour hack period.
+In all, we had [7 impressive demos](#demos)! Only a couple were
+*natural language processing* hacks, but that's okay. It was great to see
+NuPIC users making their ideas a reality in whichever direction they chose to
+apply it.
 
-<ul class="testimonials">
-    <li>
-        <p class="quote">"It was easily the best hackathon I have attended this year."</p>
-        <p class="author">Jeff Fohl</p>
-    </li>
-    <li>
-        <p class="quote">"There was fantastic energy in the room, something that only reinforced my sense that Numenta is on to something really big."</p>
-        <p class="author">Johann Schleier-Smith</p>
-    </li>
-    <li>
-        <p class="quote">"Very informative and spiked my interest in machine learning and NuPIC."</p>
-        <p class="author">Venkat Venkataraju</p>
-    </li>
-    <li>
-        <p class="quote">"Great event, convinced to jump in and start experimenting. Numenta seems to be going in the right direction."</p>
-        <p class="author">Brian Eppert</p>
-    </li>
-    <li>
-        <p class="quote">"Great experience. Intelligent people, insightful talks. I was totally new to NuPIC and although I didn't complete a project, I feel like I've learned a lot about the technology and the whole approach."</p>
-        <p class="author">Nikolay Samusik</p>
-    </li>
-    <li>
-        <p class="quote">"I think we had a nice mix of people at the event, e.g. from those focused on neuroscience biological aspects, to those just getting their feet wet, a few hackers applying NuPIC to some applications, and the great staff.  Great new introductions, good conversations and informational sessions.   Definitely an event worth attending!"</p>
-        <p class="author">Ari Kamlani</p>
-    </li>
-</ul>
+[![NuPIC 2013 Fall Hackathon](http://farm8.staticflickr.com/7325/10709055775_72897d1031_z.jpg)](http://www.flickr.com/photos/107852893@N04/10709055775/)
 
+> Hackathon attendees watching Subutai Ahmad's
+> [CLA Deep Dive](http://www.youtube.com/watch?v=QBs-2_wl_JM) presentation.
 
-<div class="image">
-    <a href="http://www.flickr.com/photos/107852893@N04/10709048275/" title="NuPIC 2013 Fall Hackathon by numenta, on Flickr"><img src="http://farm6.staticflickr.com/5483/10709048275_e3caaa6270_z.jpg" width="640" height="480" alt="NuPIC 2013 Fall Hackathon"></a>
-    <p>Hacking in progress!</p>
-</div>
+### Feedback
+
+Here's what some attendees had to say on our
+[Meetup page](http://www.meetup.com/numenta/events/136809782/) and
+[mailing list](http://lists.numenta.org/mailman/listinfo/nupic_lists.numenta.org)
+about the hackathon:
+
+> "It was easily the best hackathon I have attended this year."
+> - *Jeff Fohl*
+
+> "There was fantastic energy in the room, something that only reinforced my
+> sense that Numenta is on to something really big."
+> - *Johann Schleier-Smith*
+
+> "Very informative and spiked my interest in machine learning and NuPIC."
+> - *Venkat Venkataraju*
+
+> "Great event, convinced to jump in and start experimenting. Numenta seems to
+> be going in the right direction."
+> - *Brian Eppert*
+
+> "Great experience. Intelligent people, insightful talks. I was totally new to
+> NuPIC and although I didn't complete a project, I feel like I've learned a lot
+> about the technology and the whole approach."
+> - *Nikolay Samusik*
+
+> "I think we had a nice mix of people at the event, e.g. from those focused on
+> neuroscience biological aspects, to those just getting their feet wet, a few
+> hackers applying NuPIC to some applications, and the great staff.  Great new
+> introductions, good conversations and informational sessions. Definitely an
+> event worth attending!"
+> - *Ari Kamlani*
+
+[![NuPIC 2013 Fall Hackathon](http://farm6.staticflickr.com/5483/10709048275_e3caaa6270_z.jpg)](http://www.flickr.com/photos/107852893@N04/10709048275/)
+
+> Hacking in progress!
 
 
 <h3 id="videos"><a href="#videos">Videos</a></h3>
 
-We tried to record everything we could, which included all the sessions (minus one because of a technical glitch). My apologies for the poor audio and video in some of these. We had a wireless microphone failure because of unanticipated RF interference. We attempted to live-stream everything on YouTube via Google Hangout, which meant we sacrificed quality. For future hackathons, I plan to have better tools in place.
+We tried to record everything we could, which included all the sessions (minus
+one because of a technical glitch). My apologies for the poor audio and video in
+some of these. We had a wireless microphone failure because of unanticipated RF
+interference. We attempted to live-stream everything on YouTube via Google
+Hangout, which meant we sacrificed quality. For future hackathons, I plan to
+have better tools in place.
 
 #### <a href="http://www.youtube.com/watch?v=QNF-gONtSmA" rel="prettyPhoto" title="2013 NuPIC Fall Hackathon Kickoff Presentation">2013 NuPIC Fall Hackathon Kickoff Presentation</a>
 
@@ -100,8 +117,6 @@ We tried to record everything we could, which included all the sessions (minus o
 - [Slides]({{ site.baseurl }}/resources/hackathon/2013-10/CEPT_Word_SDRs.pdf)
 
 
-<br />
-<br />
 <h3 id="demos"><a href="#demos">Hack Demos</a></h3>
 
 In addition to the <a href="http://www.youtube.com/watch?v=X4XjYXFRIAQ&amp;start=285" rel="prettyPhoto" title="2013 NuPIC Fall Hackathon Demos">full video of all our hackathon demonstrations</a>, I've broken out each hack below with further information about the participants and source code.
@@ -149,7 +164,7 @@ In addition to the <a href="http://www.youtube.com/watch?v=X4XjYXFRIAQ&amp;start
     <h3>
         <a id="imagine_that" href="#imagine_that">Imagine That!</a>
     </h3>
-    
+
     <h4>Eron Wright</h4>
 
     <ul>
@@ -171,7 +186,7 @@ In addition to the <a href="http://www.youtube.com/watch?v=X4XjYXFRIAQ&amp;start
     <h3>
         <a id="word_sdrs" href="#word_sdrs">Visualizing Word SDR Predictions</a>
     </h3>
-    
+
     <h4>Matt Taylor</h4>
 
     <ul>
@@ -187,12 +202,12 @@ In addition to the <a href="http://www.youtube.com/watch?v=X4XjYXFRIAQ&amp;start
 </div>
 
 <div class="demo">
-    <a href="http://www.flickr.com/photos/107852893@N04/10709130084/" title="NuPIC 2013 Fall Hackathon by numenta, on Flickr"><img src="http://farm8.staticflickr.com/7354/10709130084_7989b4d476_n.jpg" width="320" height="213" alt="NuPIC 2013 Fall Hackathon"></a> 
+    <a href="http://www.flickr.com/photos/107852893@N04/10709130084/" title="NuPIC 2013 Fall Hackathon by numenta, on Flickr"><img src="http://farm8.staticflickr.com/7354/10709130084_7989b4d476_n.jpg" width="320" height="213" alt="NuPIC 2013 Fall Hackathon"></a>
 
     <h3>
         <a id="pilot" href="#pilot">Pilot</a>
     </h3>
-    
+
     <h4>Chetan Surpur, Jay Gokhale, Josh Rose, Xuyen On, Eron Wright</h4>
 
     <ul>
@@ -214,7 +229,7 @@ In addition to the <a href="http://www.youtube.com/watch?v=X4XjYXFRIAQ&amp;start
     <h3>
         <a id="sp_viewer" href="#sp_viewer">Spatial Pooler Visualization</a>
     </h3>
-    
+
     <h4>Ian Danforth</h4>
 
     <ul>
@@ -235,7 +250,7 @@ In addition to the <a href="http://www.youtube.com/watch?v=X4XjYXFRIAQ&amp;start
     <h3>
         <a id="fox" href="#fox">What does the fox eat?</a>
     </h3>
-    
+
     <h4>Subutai Ahmad</h4>
 
     <ul>
@@ -250,9 +265,14 @@ In addition to the <a href="http://www.youtube.com/watch?v=X4XjYXFRIAQ&amp;start
     <p>Subutai used the word SDR association framework defined in <a href="http://github.com/rhyolight/nupic_nlp">nupic_nlp</a> to associate three word phrases, teaching it sentences like "elephants eat leaves", "dogs like sleep", and "cows eat grass". After some training, Subutai asks NuPIC, "<a href="http://www.youtube.com/watch?v=jofNR_WkoCE">What does the fox eat?</a>" Find out the answer by watching the video!</p>
 </div>
 
-Lastly, our CEO and Chairman of the Grok/Numenta Board, Donna Dubinsky, said <a href="http://www.youtube.com/watch?v=X4XjYXFRIAQ&amp;start=8506" rel="prettyPhoto" title="Thanks, from Donna Dubinsky">a few inspirational words</a> at the end of the hackathon. Thanks, Donna!
+Lastly, our CEO and Chairman of the Grok/Numenta Board, Donna Dubinsky, said
+[a few inspirational words](http://www.youtube.com/watch?v=X4XjYXFRIAQ&amp;start=8506)
+at the end of the hackathon. Thanks, Donna!
 
-This was a really fun event to plan, and it emphasizes what a great community we have with NuPIC. Thank you everyone, for helping make this open source project what it is today. I am looking forward to planning our next hackathon this Spring!
+This was a really fun event to plan, and it emphasizes what a great community we
+have with NuPIC. Thank you everyone, for helping make this open source project
+what it is today. I am looking forward to planning our next hackathon this
+Spring!
 
 <br/>
 
@@ -262,4 +282,6 @@ This was a really fun event to plan, and it emphasizes what a great community we
 
 [Comments on Reddit](http://www.reddit.com/r/MachineLearning/comments/1q2ef6/nupic_2013_fall_hackathon_outcome/)
 
-<small><strong>By the way!</strong> You can see all the videos and photos taken at this hackathon on our <a href="http://www.youtube.com/channel/UC8-ttzWLgXZOGuhUyrPlUuA">YouTube channel</a> and <a href="http://www.flickr.com/photos/107852893@N04/">Flickr page</a>.</small>
+**By the way!** You can see all the videos and photos taken at this hackathon on
+our  [YouTube channel](http://www.youtube.com/channel/UC8-ttzWLgXZOGuhUyrPlUuA) and
+[Flickr page](http://www.flickr.com/photos/107852893@N04/).

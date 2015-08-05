@@ -86,6 +86,10 @@ description: This is the one-stop location where details about all Numenta open
       coverage: true
 
     # NuPIC applications
+    - slug: numenta/numenta-apps
+      type: app
+      monitor: false
+    
     - slug: numenta/nupic.geospatial
       type: app
       travis: true
